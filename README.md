@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Kamila Martins
 
-- 🔭 Estudante de Sistema de Informação com foco em desenvolvimento front-end
+- 🔭 Sou estudante de Sistemas de Informação com foco em desenvolvimento Front-End/Web
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: ela/dela
 
@@ -8,7 +8,7 @@
   <img align="center" alt="Kamis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kamis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kamis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kamis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
