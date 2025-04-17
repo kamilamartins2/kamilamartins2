@@ -3,7 +3,7 @@
 - Estudante de Sistemas de Informação - atualmente no 4º período
 - Tenho foco pelo desenvolvimento Front-End/Web
 - Estou em constante aprendizado e aberta a novas oportunidades que me permitam crescer profissionalmente e aplicar meus conhecimentos na prática
-
+  ## My Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Kamis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kamis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
