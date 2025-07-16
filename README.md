@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Kamila Martins
 
 - Estudante de Sistemas de Informação - atualmente no 4º período
-- Tenho foco pelo desenvolvimento Front-End/Web
+- Tenho foco na área de dados, com interesse em análise, visualização e tomada de decisão baseada em dados
 - Estou em constante aprendizado e aberta a novas oportunidades que me permitam crescer profissionalmente e aplicar meus conhecimentos na prática
 ## My Stack
 <div style="display: inline_block"><br>
