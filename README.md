@@ -2,7 +2,7 @@
 
 - Estudante de Sistemas de Informação - atualmente no 4º período
 - Tenho foco na área de dados, com interesse em análise, visualização e tomada de decisão baseada em dados
-- Estou em constante aprendizado e aberta a novas oportunidades que me permitam crescer profissionalmente e aplicar meus conhecimentos na prática
+- Estou em constante aprendizado e aberta a novas oportunidades que me permitam evoluir profissionalmente e adquirir experiências práticas rumo ao meu objetivo de atuar como cientista de dados
 ## My Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Kamis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
